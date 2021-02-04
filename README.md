@@ -3,4 +3,6 @@
 
 Esta es mi primerita vez
 
-[MARKDROW](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+Proyecto de Theremin que tiene el kill switch
