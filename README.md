@@ -9,4 +9,4 @@ Esta es mi primerita vez
 
 [PWM2](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
 
-[La lampara de colores] (https://github.com/marcoshens/arduinoo/blob/main/L_MPARA_DE_VARIOS_COLORES_ARDUINO.ino)
+[La lampara de colores](https://github.com/marcoshens/arduinoo/blob/main/L_MPARA_DE_VARIOS_COLORES_ARDUINO.ino)
