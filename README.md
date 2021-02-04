@@ -6,3 +6,5 @@ Esta es mi primerita vez
 [MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Proyecto de Theremin que tiene el kill switch](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
+
+[PWM2](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
