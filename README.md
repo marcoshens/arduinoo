@@ -7,7 +7,7 @@ Esta es mi primerita vez
 
 [Proyecto de Theremin que tiene el kill switch](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
 
-[PWM2](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
+[Parpadeo con boton](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
 
 [La lampara de colores](https://github.com/marcoshens/arduinoo/blob/main/L_MPARA_DE_VARIOS_COLORES_ARDUINO.ino)
-Siguiente linea
+
