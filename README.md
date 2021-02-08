@@ -14,3 +14,5 @@ Esta es mi primerita vez
 [PWM](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
 
 [alarma](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
+
+[poner boton](https://github.com/marcoshens/arduinoo/main/snippet_killswitch.cpp)
