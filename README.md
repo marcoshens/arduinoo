@@ -22,3 +22,5 @@ Esta es mi primerita vez
 [flecha](https://github.com/marcoshens/arduinoo/blob/main/felcha1.ino)
 
 ![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6420.JPG)
+
+[botones y la flecha] (https://github.com/marcoshens/arduinoo/blob/main/botones_flecha.ino)
