@@ -20,3 +20,5 @@ Esta es mi primerita vez
 [Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
 [flecha](https://github.com/marcoshens/arduinoo/blob/main/felcha1.ino)
+
+![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6420.JPG)
