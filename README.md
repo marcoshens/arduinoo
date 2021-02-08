@@ -16,3 +16,5 @@ Esta es mi primerita vez
 [alarma](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
 
 [poner boton](https://github.com/marcoshens/arduinoo/main/snippet_killswitch.cpp)
+
+[Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
