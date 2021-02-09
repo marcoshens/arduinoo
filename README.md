@@ -26,3 +26,5 @@ Esta es mi primerita vez
 [botones y la flecha](https://github.com/marcoshens/arduinoo/blob/main/botones_flecha.ino)
 
 [dos botones](https://github.com/marcoshens/arduinoo/blob/main/dos_botones.ino)
+
+[flecha2.0](https://github.com/marcoshens/arduinoo/blob/main/felcha2.0.ino)
