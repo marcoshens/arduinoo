@@ -7,6 +7,8 @@ Este texto no tiene formato, este _texto tiene cursiva_, este **texto tiene negr
 
 Este texto no tiene formato, este <i>texto tiene cursiva</i>,<b>este texto tiene negrita</b>. 
 
+<del>ESTE TEXTO ESTA TACHADO</del>
+
 
 [MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
