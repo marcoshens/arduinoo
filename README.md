@@ -3,6 +3,10 @@
 
 Esta es mi primerita vez
 
+Este texto no tiene formato, este texto tiene cursiva, este texto tiene negrita. 
+
+Este texto no tiene formato, este texto tiene cursiva, este texto tiene negrita. 
+
 [MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Proyecto de Theremin que tiene el kill switch](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
