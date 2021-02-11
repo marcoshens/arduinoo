@@ -5,7 +5,7 @@ Esta es mi primerita vez
 
 Este texto no tiene formato, este _texto tiene cursiva_, este **texto tiene negrita**. 
 
-Este texto no tiene formato, este <i>texto tiene cursiva</i>, este texto tiene negrita. 
+Este texto no tiene formato, este <i>texto tiene cursiva</i>,<i>este texto tiene negrita</i>. 
 
 [MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
