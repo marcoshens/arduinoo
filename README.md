@@ -20,7 +20,7 @@
 * [Proyectos de servomotor y potenciómetro](https://github.com/marcoshens/arduinoo/blob/main/README.md#proyectos-de-servomotor-y-potenci%C3%B3metro)
 
  
-* [Otras cosas](
+* [Otras cosas](https://github.com/marcoshens/arduinoo/blob/main/README.md#otras-cosas)
 
 ## Proyectos solo de leds y boton 
 
