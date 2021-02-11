@@ -34,6 +34,7 @@
 
 [Proyecto de Theremin que tiene el kill switch](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
 
+[PWM pulso con modulación](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
 
 ### PROYECTO DE LA TEMPERATURA
 
@@ -60,7 +61,6 @@
 
 [flecha](https://github.com/marcoshens/arduinoo/blob/main/felcha1.ino)
 
-[PWM pulso con modulación](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
 
 ### Otras cosas
 
