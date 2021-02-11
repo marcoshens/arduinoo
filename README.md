@@ -9,6 +9,7 @@ Este texto no tiene formato, este <i>texto tiene cursiva</i>,<b>este texto tiene
 
 <del>ESTE TEXTO ESTA TACHADO</del>
 
+<b>Hola me llamo marcos hens y soy de castelldefels y me gusta el futbol y ademas tengo novia muy golosa y me hace hacer mucho ejercicio cardiomuscular y tambien me gusta salir a la calle con los colegas</b>.<I>esto es repositorio donde me obligan a subir los trabajos que hacemos en clase para que el profe concun los vea Y ME PONGA UN POSITIVO</I>.
 
 [MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
