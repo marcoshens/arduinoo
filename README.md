@@ -22,8 +22,8 @@ Botones y led
 
 ### PROYECTO DE LA TEMPERATURA
 
+![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6494.JPG)
 
-![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6420.JPG)
 
 ### proyecto RGB
 
@@ -38,7 +38,8 @@ Botones y led
 
 [flecha2.0](https://github.com/marcoshens/arduinoo/blob/main/felcha2.0.ino)
 
-![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6494.JPG)
+![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6420.JPG)
+
 
 [botones y la flecha](https://github.com/marcoshens/arduinoo/blob/main/botones_flecha.ino)
 
