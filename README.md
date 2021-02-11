@@ -8,6 +8,17 @@
 
 ## Proyectos realizados
 
+
+Botones y led
+
+### PROYECTO DE LA TEMPERATURA
+
+temperatura
+
+### proyecto RGB
+
+[La lampara de colores](https://github.com/marcoshens/arduinoo/blob/main/L_MPARA_DE_VARIOS_COLORES_ARDUINO.ino)
+
 ### Proyectos con piezo (altavoz)
 
 
