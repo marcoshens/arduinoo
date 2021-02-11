@@ -6,7 +6,7 @@
 
 ## Índice de proyectos
 
-* [Proyectos solo de leds y boton](https://github.com/marcoshens/arduinoo#proyectos-solo-de-leds-y-boton)
+* [Proyectos solo de leds y boton](#proyectos-solo-de-leds-y-boton)
 
 * [PROYECTO DE LA TEMPERATURA]
 
