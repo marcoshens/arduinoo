@@ -3,7 +3,7 @@
 
 Esta es mi primerita vez
 
-Este texto no tiene formato, este texto tiene cursiva, este texto tiene negrita. 
+Este texto no tiene formato, este _texto tiene cursiva_, este **texto tiene negrita**. 
 
 Este texto no tiene formato, este texto tiene cursiva, este texto tiene negrita. 
 
