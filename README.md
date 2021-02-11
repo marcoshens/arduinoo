@@ -11,7 +11,7 @@
 * [PROYECTO DE LA TEMPERATURA](https://github.com/marcoshens/arduinoo/blob/main/README.md#proyecto-de-la-temperatura)
 
 
-* [proyecto RGB]
+* [proyecto RGB](https://github.com/marcoshens/arduinoo/blob/main/README.md#proyecto-rgb)
 
 
 * [Proyectos con piezo (altavoz)]
