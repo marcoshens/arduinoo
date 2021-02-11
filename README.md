@@ -5,6 +5,21 @@
 <b>Hola me llamo marcos hens y soy de castelldefels y me gusta el futbol y ademas tengo novia muy golosa y me hace hacer mucho ejercicio cardiomuscular y tambien me gusta salir a la calle con los colegas</b>.<I>esto es repositorio donde me obligan a subir los trabajos que hacemos en clase para que el profe concun los vea Y ME PONGA UN POSITIVO</I>.
 
 ## Índice de proyectos
+* [Proyectos solo de leds y boton]
+
+* [PROYECTO DE LA TEMPERATURA]
+
+
+* [proyecto RGB]
+
+
+* [Proyectos con piezo (altavoz)]
+
+
+* [Proyectos de servomotor y potenciómetro]
+
+ 
+* [Otras cosas]Otras cosas
 
 ## Proyectos solo de leds y boton 
 
