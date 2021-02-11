@@ -14,7 +14,7 @@
 * [proyecto RGB](https://github.com/marcoshens/arduinoo/blob/main/README.md#proyecto-rgb)
 
 
-* [Proyectos con piezo (altavoz)]
+* [Proyectos con piezo (altavoz)](https://github.com/marcoshens/arduinoo/blob/main/README.md#proyectos-con-piezo-altavoz)
 
 
 * [Proyectos de servomotor y potenciómetro]
