@@ -6,14 +6,24 @@
 
 ## Índice de proyectos
 
-## Proyectos realizados
+## Proyectos solo de leds y boton 
 
+[La lampara de colores](https://github.com/marcoshens/arduinoo/blob/main/L_MPARA_DE_VARIOS_COLORES_ARDUINO.ino)
+
+[Parpadeo con boton](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
+
+[poner boton](https://github.com/marcoshens/arduinoo/main/snippet_killswitch.cpp)
+
+[dos botones](https://github.com/marcoshens/arduinoo/blob/main/dos_botones.ino)
+
+[Proyecto de Theremin que tiene el kill switch](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
 
 Botones y led
 
 ### PROYECTO DE LA TEMPERATURA
 
-temperatura
+
+![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6420.JPG)
 
 ### proyecto RGB
 
@@ -30,29 +40,19 @@ temperatura
 
 ![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6494.JPG)
 
-
-### Otras cosas
-
-[MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-
-[Proyecto de Theremin que tiene el kill switch](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
-
-[Parpadeo con boton](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
-
-[La lampara de colores](https://github.com/marcoshens/arduinoo/blob/main/L_MPARA_DE_VARIOS_COLORES_ARDUINO.ino)
-
-[PWM](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
-
-
-[poner boton](https://github.com/marcoshens/arduinoo/main/snippet_killswitch.cpp)
-
-[Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+[botones y la flecha](https://github.com/marcoshens/arduinoo/blob/main/botones_flecha.ino)
 
 [flecha](https://github.com/marcoshens/arduinoo/blob/main/felcha1.ino)
 
+[PWM pulso con modulación](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
+
+### Otras cosas
+
+[Referencia MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+[Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
 ![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6420.JPG)
 
-[botones y la flecha](https://github.com/marcoshens/arduinoo/blob/main/botones_flecha.ino)
 
-[dos botones](https://github.com/marcoshens/arduinoo/blob/main/dos_botones.ino)
 
