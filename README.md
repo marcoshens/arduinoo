@@ -33,7 +33,6 @@
 
 [Proyecto de Theremin que tiene el kill switch](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
 
-Botones y led
 
 ### PROYECTO DE LA TEMPERATURA
 
