@@ -36,7 +36,7 @@
 
 [PWM pulso con modulación](https://github.com/marcoshens/arduinoo/blob/main/PWM1_arduino.ino)
 
-[reloj de arena digital}](https://github.com/marcoshens/arduinoo/blob/main/reloj_de_arena_digital.ino)
+[reloj de arena digital](https://github.com/marcoshens/arduinoo/blob/main/reloj_de_arena_digital.ino)
 
 ### PROYECTO DE LA TEMPERATURA
 
