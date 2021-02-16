@@ -42,6 +42,7 @@
 
 [piano](https://github.com/marcoshens/arduinoo/blob/main/piano.ino)
 
+![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-02-16%2013-47-11.png)
 ### PROYECTO DE LA TEMPERATURA
 
 ![](https://github.com/marcoshens/arduinoo/blob/main/IMG_6494.JPG)
