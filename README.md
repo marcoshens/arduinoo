@@ -38,7 +38,7 @@
 
 [reloj de arena digital](https://github.com/marcoshens/arduinoo/blob/main/reloj_de_arena_digital.ino)
 
-![](https://github.com/marcoshens/arduinoo/commit/df50630a9733a62e1b08d8c70389aef7d83bfc62)
+![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-02-16%2012-25-07.png)
 
 ### PROYECTO DE LA TEMPERATURA
 
