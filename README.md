@@ -68,6 +68,7 @@
 
 [flecha](https://github.com/marcoshens/arduinoo/blob/main/felcha1.ino)
 
+[sierra electrica](https://github.com/marcoshens/arduinoo/blob/main/sierra_electrica.ino)
 
 ### Otras cosas
 
