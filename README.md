@@ -68,7 +68,7 @@
 
 [sierra electrica](https://github.com/marcoshens/arduinoo/blob/main/sierra_electrica.ino)
 
-!()[https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-02-19%2011-53-37.png]
+![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-02-19%2011-53-37.png)
 
 ### Otras cosas
 
