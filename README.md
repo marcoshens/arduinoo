@@ -70,6 +70,8 @@
 
 ![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-02-19%2011-53-37.png)
 
+![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-02-19%2013-24-37.png)
+
 ### Otras cosas
 
 [Referencia MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
