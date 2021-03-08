@@ -84,4 +84,6 @@
 
 ### LCD
 
+[BOLA DE CRISTAL](https://github.com/marcoshens/arduinoo/blob/main/bola_de_cristal.ino)
+
 ![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-03-08%2013-45-42.png)
