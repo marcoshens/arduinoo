@@ -82,3 +82,6 @@
 
 [media de nota](https://github.com/marcoshens/arduinoo/blob/main/media_de_notas.ino)
 
+### LCD
+
+![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-03-08%2013-45-42.png)
