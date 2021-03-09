@@ -88,4 +88,6 @@
 
 [bola 2.0](https://github.com/marcoshens/arduinoo/blob/main/bola_de_cristal.2.0.ino)
 
+Esta modificado para que sea aleatoriamente todo el rato para poder jugar a retos y cosas asi
+
 ![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-03-08%2013-45-42.png)
