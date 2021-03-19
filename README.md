@@ -92,7 +92,7 @@
 
 [bola 2.0](https://github.com/marcoshens/arduinoo/blob/main/bola_de_cristal.2.0.ino)
 
-Esta modificado para que sea aleatoriamente todo el rato para poder jugar a retos y cosas asi
+Esta modificado para que sea aleatoriamente todo el rato para poder jugar a retos y cosas asi, por ejemplo yo pongo tres nombres de compañeros de clase pos al programarlo de forma para que sea aleatoriamente elegira un nombre random de los tres y asi se podria jugar con tus amigos
 
 ![](https://github.com/marcoshens/arduinoo/blob/main/Captura%20de%20pantalla%20de%202021-03-08%2013-45-42.png)
 
