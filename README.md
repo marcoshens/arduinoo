@@ -110,3 +110,7 @@ Esta serie de ejercicios () los hemos echo entre Marcos y Javi
 [joystick y led](https://github.com/marcoshens/arduinoo/blob/main/joystik_y_led_marcos.ino)
 
 [radar](https://github.com/marcoshens/arduinoo/blob/main/radar_marcos.ino)
+
+## examen 
+
+[problema 1](https://github.com/marcoshens/arduinoo/blob/main/porblema_1_marcos_hens.ino)
