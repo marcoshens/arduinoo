@@ -56,6 +56,7 @@
 
 ### Proyectos con piezo (altavoz)
 
+[piano](https://github.com/marcoshens/arduinoo/blob/main/piano.ino)
 
 [alarma](https://github.com/marcoshens/arduinoo/blob/main/theremin.ino)
 
