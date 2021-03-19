@@ -116,3 +116,5 @@ Esta serie de ejercicios () los hemos echo entre Marcos y Javi
 ## examen 
 
 [problema 1](https://github.com/marcoshens/arduinoo/blob/main/porblema_1_marcos_hens.ino)
+
+[problema 2]()
